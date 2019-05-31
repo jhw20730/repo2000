@@ -35,7 +35,7 @@ public class HomeController {
 		
 		System.out.println("1. master branch");
 		System.out.println("2. Branch Test1");
-		
+		System.out.println("3. commit");
 		
 		return "home";
 	}
